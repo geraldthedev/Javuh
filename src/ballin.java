@@ -1,4 +1,9 @@
-
+import java.util.*;
+import java.io.*;
+import java.math.*;
+import java.lang.*;
+import java.awt.*;
+import javax.swing.*;
 public class ballin {
 
    public void rollHill(int newRoll, int newBounce, int newHill){
